@@ -1,0 +1,6 @@
+networkx >= 2.5.0
+ruptures >= 1.0.3
+pandas >= 1.1.0
+numpy >= 1.15.4
+tensorflow==1.15
+ampligraph==1.3.1
