@@ -2,7 +2,7 @@
 
 Thank you for taking an interest in our work. The following are instruction on how to reproduce the results displayed in our paper. 
 
-To get started, you must have 3.6 <= Python (64 bit) >= 3.7 installed. Older or newer versions unfortunately do not work due to dependency conflicts. Next, you can install the required dependencies by running the following in your shell.
+To get started, you must have Python (64 bit) 3.6 or 3.7 installed. Older or newer versions unfortunately do not work due to dependency conflicts. Next, you can install the required dependencies by running the following in your shell.
 
 > py -m pip install -r requirements.txt
 
